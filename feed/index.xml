@@ -10,7 +10,7 @@
 <channel>
 	<title>PersonalityMaker</title>
 	<atom:link href="http://personalitymaker.tk/feed/" rel="self" type="application/rss+xml" />
-	<link>http://personalitymaker.tk</link>
+	<link>http://personalitymaker.tk/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 23 Dec 2018 10:31:03 +0000</lastBuildDate>
 	<language>en-US</language>
